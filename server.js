@@ -16,8 +16,8 @@ let client = new Client();
 
 //// IMPORTANT VVV
 let token = process.env.SECRET //Your token goes in key.env (Discord bot)
-let prefix = ';'; // Discord bot prefix
-let rolename = "rolenamehere"
+let prefix = '*'; // Discord bot prefix
+let rolename = "Blacklist Perms"
 /// IMPORTANT ^^^
 
 
